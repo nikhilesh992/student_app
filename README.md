@@ -1,4 +1,4 @@
-# student_app
+# student app (CRUD API - for interview purpose only)
 
 See in action:
 https://www.loom.com/share/86a7ddac09484976a1fc6ca335513487
