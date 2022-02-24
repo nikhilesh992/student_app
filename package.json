@@ -7,6 +7,6 @@
     "fastify": "^3.27.2"
   },
   "engines": {
-    "node": "16.x"
+    "node": "14.x"
   }, "author": "Nikhilesh Pattanayak", "main": "server.js"
 }
