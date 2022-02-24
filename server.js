@@ -55,7 +55,7 @@ fastify.post('/update', async (request, reply) => {
      if(!outbool){
         return {status: "fail", message:"Error while updating. Please check if you have given correct studentId!!"}
      }
-    return {status: "success", message:"student "+result.studentId+" got deleted successfully!"}
+    return {status: "success", message:"student "+result.studentId+" got updated successfully!"}
   })
 
 // Run the server!
