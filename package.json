@@ -1,0 +1,9 @@
+{
+  "name": "crud_app",
+  "version": "1.0.0",
+  "description": "crud application with express and mongodb",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {
+    "fastify": "^3.27.2"
+  }
+}
